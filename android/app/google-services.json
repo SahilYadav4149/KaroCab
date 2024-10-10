@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "760588464383",
+    "project_id": "otps-c0454",
+    "storage_bucket": "otps-c0454.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760588464383:android:7b8105dbb57ad991551cca",
+        "android_client_info": {
+          "package_name": "com.example.karocab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNySLz6tT-jdf5aQCoa2Heh0Y0SXWwRDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
